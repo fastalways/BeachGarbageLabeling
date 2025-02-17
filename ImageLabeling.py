@@ -18,13 +18,31 @@ AutomaticallyFoldersListing = True # True = Auto   / False = Manually
 
 '''  Label Listing  '''
 label_name_list = [
-    'PlasticBottle',
-    'GlassBottle',
-    'Can',
-    'PlasticBag',
-    'RopeNets',
-    'Foam',
-    'Other'
+    'PlasticBottle',            # ขวดพลาสติก
+    'GlassBottle',              # ขวดแก้ว
+    'PlasticBottleCap',         # ฝาขวดพลาสติก
+    'Straw',                    # หลอดดูดน้ำ
+    'Can',                      # กระป๋องโลหะ (เช่น กระป๋องน้ำอัดลม)
+    'PlasticBag',               # ถุงพลาสติก
+    'RopeNets',                 # เชือกและอวนประมง
+    'FireLighter',              # ไฟแช็ก
+    'Foam',                     # โฟม (เช่น กล่องโฟม)
+    'Fabric',                   # เศษผ้า (เช่น เสื้อผ้า, ผ้าเช็ดตัว)
+    'Sponge',                   # ฟองน้ำ
+    'Paper',                    # กระดาษ
+    'Metal',                    # โลหะ (เช่น เศษเหล็ก)
+    'PlasticSpoon',             # ช้อน-ส้อมพลาสติก
+    'Rubber',                   # ยาง (เช่น รองเท้าแตะ)
+    'CigaretteButt',            # ก้นบุหรี่
+    'NaturalWood',              # ไม้ธรรมชาติ (เช่น ท่อนไม้, กิ่งไม้)
+    'Shrimp',                   # กุ้ง
+    'Shell',                    # เปลือกหอย
+    'Crab',                     # ปู
+    'Fish',                     # ปลา
+    'Coral',                    # ปะการัง
+    'Seaweed',                  # สาหร่ายทะเล
+    'Jellyfish',                # แมงกะพรุน
+    'Other',                    # อื่นๆ
 ]
 
 '''  Manually Folders Listing  '''
