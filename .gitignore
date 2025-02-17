@@ -1,0 +1,11 @@
+/BeachGarbageDatasetCropped/*
+/BeachGarbageDatasetYolo/data/train/*
+/BeachGarbageDatasetYolo/data/val/*
+/BeachGarbageDatasetYolo/data/test/*
+/BeachGarbageDataset/*
+/venv_main/*
+
+
+/BeachGarbageDatasetYolo/data/train/.gitkeep
+/BeachGarbageDatasetYolo/data/val/.gitkeep
+/BeachGarbageDatasetYolo/data/test/.gitkeep
