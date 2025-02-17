@@ -45,9 +45,33 @@ class cvRect:
         return  [self.x,self.y,self.w,self.h]
 
 dictLabel = {
-    'swimming':0,
-    'drowning':1,
-    'not_swimming':2,
+    'PlasticBottle': 0,
+    'GlassBottle': 1,
+    'PlasticCup': 2,
+    'PlasticBottleCap': 3,
+    'Straw': 4,
+    'Can': 5,
+    'MilkBox': 6,
+    'PlasticBag': 7,
+    'RopeNets': 8,
+    'FireLighter': 9,
+    'Foam': 10,
+    'Fabric': 11,
+    'Sponge': 12,
+    'Paper': 13,
+    'Metal': 14,
+    'PlasticSpoon': 15,
+    'Rubber': 16,
+    'CigaretteButt': 17,
+    'NaturalWood': 18,
+    'Shrimp': 19,
+    'Shell': 20,
+    'Crab': 21,
+    'Fish': 22,
+    'Coral': 23,
+    'Seaweed': 24,
+    'Jellyfish': 25,
+    'Other': 26
 }
 def makeLabelYOLO(xywh,nameClass,IMAGE_WIDTH,IMAGE_HEIGHT):
     ''' makeLabelYOLO(xywh<-cvRect,nameClass<-string,IMAGE_SIZE<-numpy.shape())

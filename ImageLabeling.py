@@ -20,9 +20,11 @@ AutomaticallyFoldersListing = True # True = Auto   / False = Manually
 label_name_list = [
     'PlasticBottle',            # ขวดพลาสติก
     'GlassBottle',              # ขวดแก้ว
+    'PlasticCup',               # แก้วพลาสติก
     'PlasticBottleCap',         # ฝาขวดพลาสติก
     'Straw',                    # หลอดดูดน้ำ
-    'Can',                      # กระป๋องโลหะ (เช่น กระป๋องน้ำอัดลม)
+    'Can',                      # กระป๋องโลหะ (เช่น กระป๋องน้ำอัดลม กระป๋องเบียร์ กระป๋องสี)
+    'MilkBox',                  # กล่องนม
     'PlasticBag',               # ถุงพลาสติก
     'RopeNets',                 # เชือกและอวนประมง
     'FireLighter',              # ไฟแช็ก
