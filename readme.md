@@ -1,5 +1,5 @@
 <h1> Labeling for BeachGabageDetectionDataset</h1>
-<h2> Install Python > 3.8.10 </h2>
+<h2> Install Python > 3.8.10 + </h2>
 <h3> Source List </h3>
 <ul>
   <li>ImageLabeling.py ใช้สำหรับทำLabeling (annotation) แบบFormat_GAnno -> Label_name x,y,w,h</li>
