@@ -7,7 +7,6 @@ from os.path import isfile, join, exists
 import re
 import copy
 
-from numpy.lib.shape_base import split
 
 # CAUTION !!!!!! Path must seperate only by slash -> "/" e.g. ./my_car_dataset/
 DIRs = ["G:/Shared drives/AI-Dataset-B/BeachGarbageDataset/"] # TrainSet
