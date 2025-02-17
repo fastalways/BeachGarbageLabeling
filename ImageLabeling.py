@@ -22,7 +22,7 @@ label_name_list = [
     'GlassBottle',
     'Can',
     'PlasticBag',
-    'RopeNets'
+    'RopeNets',
     'Foam',
     'Other'
 ]

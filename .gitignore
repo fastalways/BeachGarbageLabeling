@@ -3,7 +3,7 @@
 /BeachGarbageDatasetYolo/data/val/*
 /BeachGarbageDatasetYolo/data/test/*
 /BeachGarbageDataset/*
-/venv_main/*
+/venv-main/*
 
 
 /BeachGarbageDatasetYolo/data/train/.gitkeep

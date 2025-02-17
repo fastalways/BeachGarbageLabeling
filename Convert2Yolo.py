@@ -8,9 +8,10 @@ import re
 import copy
 
 from numpy.lib.shape_base import split
+
 # CAUTION !!!!!! Path must seperate only by slash -> "/" e.g. ./my_car_dataset/
-DIRs = ["D:/DrowningDetectionDatasetV2/"] # TrainSet
-DIR_to_save = "D:/DrowningDetectionDatasetYolo_SWIM-DROWN-NOSWIM/data/train/"
+DIRs = ["G:/Shared drives/AI-Dataset-B/BeachGarbageDataset/"] # TrainSet
+DIR_to_save = "G:/Shared drives/AI-Dataset-B/data/train/"
 
 
 
